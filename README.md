@@ -1,6 +1,6 @@
 # Anytime-asymptotically-optimal-motion-planning
 
-Developed by: A. Santopaolo (2018).
+Developed by: E. Caruso, A. Santopaolo (2018).
 
 Supervisor: prof. G. Oriolo.
 
