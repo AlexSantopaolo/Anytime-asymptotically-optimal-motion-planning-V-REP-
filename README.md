@@ -16,4 +16,4 @@ narios of increasing complexity. We programmed this algorithm in C + +
 and we tested it on the mobile robot Y oubot which is available in the V-rep
 simulator.
 
-> For more detail open the [report](report.pdf)
+> For more detail open the [report](Report.pdf)
