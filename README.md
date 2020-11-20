@@ -14,4 +14,5 @@ solution and repeatedly improving it during the simultaneous execution. The
 proposed motion planning algorithm was thoroughly evaluated in several sce-
 narios of increasing complexity. The algorithm is in C + +
 and simulation environment is V-Rep. The robot on which the algorithm is tested is YouBot.
+
 > For more details open the [report](Report.pdf)
