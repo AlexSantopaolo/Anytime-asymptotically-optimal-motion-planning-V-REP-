@@ -12,8 +12,6 @@ that is problematic when planning under time limitations. The anytime ver-
 sion of RRT* addresses this issue by quickly computing an initial sub-optimal
 solution and repeatedly improving it during the simultaneous execution. The
 proposed motion planning algorithm was thoroughly evaluated in several sce-
-narios of increasing complexity. We programmed this algorithm in C + +
-and we tested it on the mobile robot Y oubot which is available in the V-rep
-simulator.
-
-> For more detail open the [report](Report.pdf)
+narios of increasing complexity. The algorithm is in C + +
+and simulation environment is V-Rep. The robot on which the algorithm is tested is YouBot.
+> For more details open the [report](Report.pdf)
