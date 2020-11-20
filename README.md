@@ -1,6 +1,6 @@
 # Anytime-asymptotically-optimal-motion-planning
 
-<h2> Project Descrpition </h2>
+<h2> Project Description </h2>
 The goal of our project is to use an optimal motion planning algorithm to
 move a mobile that is assigned a navigation task without taking into account
 the dynamic constraints of this robot. The optimal motion planning algo-
