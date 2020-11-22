@@ -1,4 +1,4 @@
-# Anytime-asymptotically-optimal-motion-planning
+# V-REP-Anytime-asymptotically-optimal-motion-planning
 
 Developed by: E. Caruso, A. Santopaolo (2018).
 
