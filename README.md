@@ -18,7 +18,7 @@ The goal of our project is to use an optimal motion planning algorithm to move a
 
 The algorithm has been written in C + +. The simulation environment is V-Rep. The robot on which the algorithm is tested is YouBot. The code is available. It's suggested to run in Linux environment.
 
-<h3> *Referecenes* </h3>
+<h3> Referecenes </h3>
 
 1. Paolo Ferrari, Marco Cognetti, and Giuseppe Oriolo. Anytime wholebody planning/replanning for humanoid robots. 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids), 2018.
 1. Sertac Karaman and Emilio Frazzoli. Sampling-based algorithms for optimal motion planning. The international journal of robotics research, 30(7):846{894, 2011.
