@@ -1,4 +1,4 @@
-<h1>Anytime-asymptotically-optimal-motion-planning</h1>
+<h1>Anytime asymptotically optimal motion planning</h1>
 
 Developed by: E. Caruso, A. Santopaolo (2018).
 
